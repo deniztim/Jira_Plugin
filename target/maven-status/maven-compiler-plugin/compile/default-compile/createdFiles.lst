@@ -1,0 +1,6 @@
+com\staj\test\servlet\MyServlet.class
+com\staj\Servlet\UserServlet.class
+com\staj\test\servlet\DatabaseOperations.class
+com\staj\impl\MyPluginComponentImpl.class
+com\staj\test\servlet\List.class
+com\staj\api\MyPluginComponent.class
